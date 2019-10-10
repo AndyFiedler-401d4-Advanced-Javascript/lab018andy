@@ -1,5 +1,3 @@
-'use strict';
-
 const Q = require('@nmq/q/client');
 const eventHub = require('./hub');
 
